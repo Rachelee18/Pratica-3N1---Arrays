@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>Exercício 1 - Gerenciamento de Produtos</title>
+    <title>Exercício 1</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
